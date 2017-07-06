@@ -9,7 +9,7 @@
     "emailjs": "0.3.4",
     "crypto": "0.0.3",
     "nodemailer": "0.5.2",
-    "mysql": "2.0.0-alpha9"
+    "mysql": "2.13.0"
   },
   "readmeFilename": "README.txt",
   "main": "hooks.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aoberegg/ep_user_pad.git"
+    "url": "https://github.com/Uebergebuehr/ep_user_pad.git"
   },
   "keywords": [
     "etherpad-lite",
